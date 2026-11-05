@@ -1,0 +1,6 @@
+{
+  "name": "QuickBasket",
+  "description": "Hyperlocal grocery, food, kitchen essentials & delivery management platform with live order tracking, delivery partner dashboard, inventory control, and recipe-book shopping.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
